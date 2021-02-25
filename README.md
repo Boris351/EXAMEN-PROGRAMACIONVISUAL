@@ -1,2 +1,2 @@
-# EXAMEN-PROGRAMACIONVISUAL
-Colaborador: Edison Anilema
+# EXAMEN-RECURSOS-HUMANOS 
+Colaborador: Edison Anilema #
