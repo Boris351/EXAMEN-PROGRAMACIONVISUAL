@@ -1,2 +1,3 @@
 # EXAMEN-RECURSOS-HUMANOS 
-Colaborador: Edison Anilema #
+Colaborador:#Edison Anilema 
+#Jose Caiza
