@@ -1,0 +1,27 @@
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.deps.json
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.dll
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.pdb
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csprojAssemblyReference.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfoInputs.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfo.cs
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.dll
+C:\Users\Rodney\Downloads\PROGRAMACION VISUAL\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.pdb
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.deps.json
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.dll
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\bin\Debug\netstandard2.0\CLASES.pdb
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.dll
+C:\Users\USUARIO\Desktop\HERENCIA\CLASES\obj\Debug\netstandard2.0\CLASES.pdb
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASES.deps.json
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASES.dll
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASES.pdb
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.dll
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASES.pdb

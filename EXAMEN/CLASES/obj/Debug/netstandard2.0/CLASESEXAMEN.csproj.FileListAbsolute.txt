@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASESEXAMEN.deps.json
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASESEXAMEN.dll
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\bin\Debug\netstandard2.0\CLASESEXAMEN.pdb
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.dll
+C:\Users\USUARIO\Desktop\EXAMEN\CLASES\obj\Debug\netstandard2.0\CLASESEXAMEN.pdb
